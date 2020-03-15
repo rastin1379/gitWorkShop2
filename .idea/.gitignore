@@ -2,4 +2,4 @@
 /workspace.xml
 *.iml
 *.xml
-class
+*.class
